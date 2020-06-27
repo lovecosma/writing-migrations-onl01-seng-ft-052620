@@ -24,4 +24,4 @@ ActiveRecord::Base.establish_connection(
   :database => "db/students.sqlite"
 )
 
-# require_relative "../model/student.rb"
+# require_relative "../models/student.rb"
