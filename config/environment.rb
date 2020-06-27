@@ -21,7 +21,7 @@ end
 
 ActiveRecord::Base.establish_connection(
   :adapter => "sqlite3",
-  :database => "db/artists.sqlite"
+  :database => "db/studens.sqlite"
 )
 
 # require_relative "../student.rb"
